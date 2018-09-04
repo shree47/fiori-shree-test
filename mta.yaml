@@ -1,6 +1,6 @@
 _schema-version: "2.0.0"
-ID: "<Id of your MTA>"
-version: <version number of your application>
+ID: "fiori-shree-test"
+version: ${timestamp}
 
 parameters:
   hcp-deployer-version: "1.0.0"
